@@ -1,17 +1,21 @@
-# Project Title
+# SAMPLE 
 
-A brief description of what this project does and who it's for
-
+# My Name is El, a Fullstack Developer
 
 ## 🚀 About Me
-I'm a full stack developer...
+I develop and built websites using React for the frontend and Node.js and Postgres for the backend.
 
 
-# Hi, I'm Katherine! 👋
+
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+
+FRONTEND: React, Javascript, HTML, CSS, Tailwind
+BACKEND:  Node.js, Express.js
+DATABASE: PostgresSQL, MongoDB
+TOOLS & PLATFORMS: Github, VS code, Postman
+
 
 
 ## Badges
