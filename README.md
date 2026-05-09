@@ -12,10 +12,10 @@ I develop and built websites using React for the frontend and Node.js and Postgr
 
 ## 🛠 Skills
 
-FRONTEND: React, Javascript, HTML, CSS, Tailwind
-BACKEND:  Node.js, Express.js
-DATABASE: PostgresSQL, MongoDB
-TOOLS & PLATFORMS: Github, VS code, Postman
+<p>FRONTEND: React, Javascript, HTML, CSS, Tailwind</p>
+<p>BACKEND:  Node.js, Express.js</p>
+<p>DATABASE: PostgresSQL, MongoDB</p>
+<p>TOOLS & PLATFORMS: Github, VS code, Postman</p>
 
 
 
