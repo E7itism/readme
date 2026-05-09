@@ -8,7 +8,7 @@
 
 
 ## 🚀 About Me
-I develop and built websites using React for the frontend and Node.js and Postgres for the backend.
+I develop and build websites using React for the frontend, Node.js and Postgres for the backend.
 
 ## 🛠 Skills
 
