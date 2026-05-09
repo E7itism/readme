@@ -11,5 +11,3 @@ DATABASE: PostgresSQL, MongoDB
 TOOLS & PLATFORMS: Github, VS code, Postman
 
 
-
-## Badges
