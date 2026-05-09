@@ -1,4 +1,6 @@
-# My Name is El, a Fullstack Developer
+<p align="center">My name is El, I'm a fullstack developer.</p>
+<h2 align="center">WELCOME TO MY PAGE</h2>
+
 
 <p align="center">
   <img src="https://us-tuna-sounds-images.voicemod.net/571d5c0d-b8d0-4e32-b9e4-fad8da1e19a5-1714775961913.jpg" alt="Centered Image" width="300">
