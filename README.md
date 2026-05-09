@@ -17,8 +17,12 @@ I develop and build websites using React for the frontend, Node.js and Postgres 
 <p>DATABASE: PostgresSQL, MongoDB</p>
 <p>TOOLS & PLATFORMS: Github, VS code, Postman</p>
 
+## 🔗 Links
+<p>vv Find out more about me here vv </p>
+[![portfolio](elgaudiel.vercel.app)
 
 
 ## Authors
 
 - [@Eliezer Gaudiel](https://www.github.com/E7itism)
+
