@@ -1,5 +1,5 @@
 <h1 align="center">My name is El, I'm a fullstack developer.</h1>
-<h2 align="center">WELCOME TO MY PAGE</h2>
+<h2 align="center">Welcome to my page!</h2>
 
 
 <p align="center">
