@@ -1,7 +1,7 @@
 # My Name is El, a Fullstack Developer
 
 <p align="center">
-  <img src="https://example.com/image.png" alt="Centered Image" width="300">
+  <img src="[https://example.com/image.png](https://us-tuna-sounds-images.voicemod.net/571d5c0d-b8d0-4e32-b9e4-fad8da1e19a5-1714775961913.jpg)" alt="Centered Image" width="300">
 </p>
 
 
