@@ -1,13 +1,7 @@
-# SAMPLE 
-
 # My Name is El, a Fullstack Developer
 
 ## 🚀 About Me
 I develop and built websites using React for the frontend and Node.js and Postgres for the backend.
-
-
-
-
 
 ## 🛠 Skills
 
