@@ -11,3 +11,7 @@ DATABASE: PostgresSQL, MongoDB
 TOOLS & PLATFORMS: Github, VS code, Postman
 
 
+
+## Authors
+
+- [@Eliezer Gaudiel](https://www.github.com/E7itism)
