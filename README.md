@@ -19,7 +19,7 @@ I develop and build websites using React for the frontend, Node.js and Postgres 
 
 ## 🔗 Links
 <p>vv Find out more about me here vv </p>
-[![portfolio]([elgaudiel.vercel.app]https://elgaudiel.vercel.app/)
+[![portfolio](https://elgaudiel.vercel.app/)
 
 
 ## Authors
